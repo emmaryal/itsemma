@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Emma Craig",
+    "occupation": "Full Stack Web Developer",
+    "description": "Responsive Design | React | Redux | HTML | CSS | Javascript",
+    "image": "profilepic.jpg",
+    "bio": "I am a web developer from Scotland, currently based near Barcelona. \n I enjoy building everything from fully responsive small business apps to fully integrated ecommerce sites. \n If you are a business seeking a web presence or an employer looking to hire, you can contact me here",
+    "contactmessage": "contact me today and let's chat about what I can do for you",
+    "email": "emma.ryal@gmail.com",
+    "phone": "+34 608 850 761",
+    "address": {
+      "city": "Barcelona"
+    },
+    "website": "http://www.itsemma.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/emmahcraig/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "http://github.com/emmaryal",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a hard working, entrepreneurial person who sees life as a constant opportunity to learn. After a career in IT, followed by a spell running my own business, I completed a 9 week bootcamp in web development at Ironhack and started life as a freelance web developer.",
+    "education": [
+      {
+        "school": "Ironhack Barcelona",
+        "degree": "Full Stack Web Development Bootcamp",
+        "graduated": "December 2020"
+      },
+      {
+        "school": "University of Paisley",
+        "degree": "MSc (Information Technology)",
+        "graduated": "July 1994"
+      },
+      {
+        "school": "University of Glasgow",
+        "degree": "BSc (Physics & Maths)",
+        "graduated": "June 1992"      }
+    ],
+    "work": [
+      {
+        "company": "Cinnamon Sitges",
+        "title": "Owner",
+        "years": "June 2009 - October 2020",
+        "description": "I created and ran a successful zero waste takeaway business / countryside restaurant / catering business and student cafeteria"
+      },
+      {
+        "company": "World Health Organization",
+        "title": "IT Manager ",
+        "years": "October 1998 - October 2002",
+        "description": "In house IT support and server maintenance plus liaison with Generalitat Department of Health in Barcelona and WHO regional office in Copenhagen."
+      },
+      {
+        "company": "Highfield Group",
+        "title": "IT Manager ",
+        "years": "October 1998 - October 2002",
+        "description": "Led transition of off site IT administration and financial database. Supervised a team of two and organised training workshops. On site IT support & server maintenance."
+      }
+     
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "80%"
+      },
+      {
+        "name": "Redux",
+        "level": "50%"
+      },
+      {
+        "name": "Javascript",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "90%"
+      },
+      {
+        "name": "GraphJS",
+        "level": "70%"
+      },
+      {
+        "name": "CSS & Sass",
+        "level": "80%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "APPriori",
+        "category": "APPriori - sorting app",
+        "image": "appriori.jpg",
+        "image_mob": "appriori_mob.jpg",
+        "url": "https://appriori.netlify.app/"
+      },
+      {
+        "title": "Indeep Record Shop",
+        "category": "E-commerce site with user authentication, AtlasDB backend, shopping cart and online payments Tech stack: Mongo, Express, React, Node, Styled Components",
+        "image": "indeeprecords.jpg",
+        "image_mob": "indeeprecords_mob.jpg",
+        "url": "http://indeeprecords.herokuapp.com/"
+      },
+      {
+        "title": "Dashboard",
+        "category": "Dashboard I built using redux & graphJS",
+        "image": "dashboard.jpg",
+        "image_mob": "dashboard_mob.jpg",
+        "url": "http://infallible-shannon-8c948a.netlify.app"
+      },
+      {
+        "title": "Scoop",
+        "category": "Back end project with CRUD and user authentication. Tech stack: Node, Express, MongoDB, Mongoose, JSX, HTML, CSS, Bootstrap",
+        "image": "scoop.jpg",
+        "image_mob": "scoop_mob.jpg",
+        "url": "http://scoop.herokuapp.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
